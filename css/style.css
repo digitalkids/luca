@@ -1,0 +1,49 @@
+.doru{
+  color:yellow;
+  background-color:blue;
+  border:15px solid green;
+  text-align:center;
+  width:499px;
+  font-style:oblic;
+  font-family:arial;
+  float: right;
+  aling:center;
+}
+img {border:15px solid transparent;
+-webkit-transition: all 300ms ease;}
+img:hover{
+  border:15px solid white;
+  border-radius:100px;
+  
+}
+p:hover{
+  color:gold;
+}
+.red{
+  color:orange;
+  font-style:italic;
+}
+body{
+  background-image:url("http://www.andysowards.com/blog/assets/block-minecraft-wallpaper-680x382.jpg?b91b38");
+  background-position:center center;
+  background-scroll:fixed;
+  background-size:cover;
+}
+.supereroi{
+  text-transform:capitalize;
+  font-size:large;
+  word-spacing:6px;
+  text-aling:center;
+    color:white;
+  font-weight:300;
+}
+#poza{
+float:center;  
+  text-align:center
+}
+
+#canv {
+  width:750px;
+  height:580px;
+ margin-left:120px;
+}
